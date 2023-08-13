@@ -2,7 +2,7 @@
 
 Mouse Info is a real-time tracking tool that provides valuable insights into the mouse cursor's behavior. With features like position tracking, pixel color detection, magnification, and system resource monitoring, it offers a comprehensive view of mouse activity.
 
-![Preview](preview.png)
+
 
 ## Table of Contents
 
@@ -26,19 +26,19 @@ Mouse Info is a real-time tracking tool that provides valuable insights into the
 
 Clone the repository and install the required dependencies:
 
-\`\`\`bash
+```
 git clone https://github.com/username/mouse-info.git
 cd mouse-info
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Usage
 
 Run the \`Mouse_Info.py\` file to launch Mouse Info:
 
-\`\`\`bash
+```
 python Mouse_Info.py
-\`\`\`
+```
 
 ### Controls
 
@@ -59,10 +59,10 @@ Access the Settings window to customize Mouse Info with the following options:
 
 You can package Mouse Info into a standalone executable using PyInstaller:
 
-\`\`\`bash
+```
 pip install pyinstaller
 pyinstaller --onefile Mouse_Info.py
-\`\`\`
+```
 
 Find the executable in the \`dist\` directory.
 
