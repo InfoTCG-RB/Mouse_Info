@@ -2,7 +2,7 @@
 
 Mouse Info is a real-time tracking tool that provides valuable insights into the mouse cursor's behavior. With features like position tracking, pixel color detection, magnification, and system resource monitoring, it offers a comprehensive view of mouse activity.
 
-
+![Screenshot of the user interface of Mouse_Info.](/mouse_position.png)
 
 ## Table of Contents
 
